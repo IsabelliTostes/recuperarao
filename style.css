@@ -1,0 +1,78 @@
+/*classe formatando div "conteudo"*/
+.conteudo10 {
+    width: 200px;
+    height:200px;
+    float: left;
+    margin: 30px;
+    background-image: url("assets/dory.jpg");
+    display: block;
+    background-size: cover;
+}
+.conteudo11 {
+    width: 200px;
+    height:200px;
+    float: left;
+    margin: 30px;
+    background-image: url("assets/comida1.jpg");
+    display: block;
+}
+
+.conteudo12 {
+    width: 200px;
+    height:200px;
+    float: left;
+    margin: 30px;
+    background-image: url("assets/comida2.jpg");
+    display: block;
+}
+.conteudo13 {
+    width: 200px;
+    height:200px;
+    float: left;
+    margin: 30px;
+    background-image: url("assets/comida3.jpg");
+    display: block;
+}
+.conteudo14 {
+    width: 200px;
+    height: 200px;
+    float: left;
+    margin: 30px;
+    background-image: url("assets/noticias.jpg");
+}
+.conteudo15 {
+    width: 200px;
+    height: 200px;
+    float: left;
+    margin: 30px;
+    background-image: url("assets/noticia1.jpg");
+    background-size: cover;
+}
+.conteudo16 {
+    width: 200px;
+    height: 200px;
+    float: left;
+    margin: 30px;
+    background-image: url("assets/noticia2.jpg");
+    background-size: cover;
+}
+.conteudo17 {
+    width: 200px;
+    height: 200px;
+    float: left;
+    margin: 30px;
+    background-image: url("assets/noticia3.jpeg");
+    background-size: cover;
+}
+.conteudo18 {
+    width: 200px;
+    height: 200px;
+    float: left;
+    margin: 30px;
+    background-image: url("assets/noticia4.jpg");
+    background-size: cover;
+}
+
+#body {
+    background-color: rgb(37, 36, 36);
+}
